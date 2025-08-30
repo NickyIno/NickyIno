@@ -78,4 +78,4 @@
 ## 🤝 Let's Connect
 Feel free to explore my repositories. I'm still laying the foundation, but each repo represents part of a bigger vision.
 
-> 📧 Email: `reffalino373@gmail.com`
+> 📧 Email: `reffalinonickychandra@gmail.com`
