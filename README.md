@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats
 
-![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InoPySE&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InoPySE&layout=compact&theme=tokyonight)
+![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickyIno&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyIno&layout=compact&theme=tokyonight)
 
 ---
 
