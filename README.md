@@ -56,7 +56,7 @@
 
 ## 🐍 Contribution Snake (just for fun!)
 
-![GitHub Snake dark](https://raw.githubusercontent.com/InoPySE/InoPySE/output/github-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/NickyIno/NickyIno/output/github-snake-dark.svg)
 
 ---
 
