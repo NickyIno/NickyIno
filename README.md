@@ -49,10 +49,10 @@
 
 ## 📊 GitHub Stats
 
-[![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickyIno&show_icons=true&theme=tokyonight&count_private=true)](https://github-readme-stats-lyart-iota-28.vercel.app/api?username=NickyIno
-)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyIno&layout=compact&theme=tokyonight)](https://github-readme-stats-lyart-iota-28.vercel.app/api?username=NickyIno
-)
+[![Nicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickyIno&show_icons=true&theme=tokyonight&count_private=true)](https://github-readme-stats.vercel.app/api?username=NickyIno)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyIno&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=NickyIno)
+
 
 ---
 
