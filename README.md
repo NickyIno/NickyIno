@@ -67,7 +67,7 @@
 - Learning to code while navigating a challenging school environment.
 - No completed projects yet—but every day is a step toward meaningful software creation.
 - Determined to build solutions that are inclusive, balanced, and smart.
-
+ 
 ---
 
 ## 🔮 Goals and Aspirations
