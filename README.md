@@ -59,7 +59,7 @@
 
 ## 🐍 Contribution Snake (just for fun!)
 
-![GitHub Snake dark](https://raw.githubusercontent.com/NickyIno/NickyIno/output/github-snake-dark.svg&v=1)
+![GitHub Snake dark](https://raw.githubusercontent.com/NickyIno/NickyIno/output/github-snake-dark.svg)
 
 ---
 
