@@ -61,7 +61,7 @@
 ---
 
 ## 🔮 Goals and Aspirations
-- Become a professional **AI Engineer**.
+- Become a professional **Engineer**.
 - Relearn what I should’ve been taught in a more functional and empowering educational system.
 - Use tech to bring logic, clarity, and purpose to communities in need of change.
 
