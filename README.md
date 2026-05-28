@@ -40,7 +40,7 @@
 
 [![Nicky's GitHub Stats](https://github-readme-stats-lyart-iota-28.vercel.app/api?username=NickyIno&show_icons=true&theme=tokyonight&count_private=true&v=1)](https://github-readme-stats-lyart-iota-28.vercel.app)
 
-[![Top Languages](https://github-readme-stats-lyart-iota-28.vercel.app/api/top-langs/?username=NickyIno&layout=compact&theme=tokyonight&v=1)](https://github-readme-stats-lyart-iota-28.vercel.app)
+[![Top Languages](https://github-readme-stats-lyart-iota-28.vercel.app/api/top-langs/?username=NickyIno&layout=compact&theme=tokyonight&hide=css,html)](https://github-readme-stats-lyart-iota-28.vercel.app)
 
 
 
