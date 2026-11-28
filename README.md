@@ -1,4 +1,4 @@
-# Reffalino Nicky Chandra (Ino)
+# NickyIno
 
 👨‍💻 **Vocational High School Student** | Aspiring **AI Engineer and Red Team Pentester**  
 📍 Based in Karanganyar, Indonesia  
